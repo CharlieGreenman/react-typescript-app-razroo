@@ -1,8 +1,6 @@
 {
-  "name": "react-typescript-app-razroo",
+  "name": "px-illustrator",
   "version": "0.1.0",
-  "private": true,
-  "workspaces": [ "*" ],
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
