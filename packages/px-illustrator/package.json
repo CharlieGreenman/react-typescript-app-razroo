@@ -7,7 +7,7 @@
     "react-scripts-ts": "2.16.0"
   },
   "scripts": {
-    "start": "cd packages/px-illustrator; react-scripts-ts start",
+    "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject"
