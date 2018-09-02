@@ -2,7 +2,9 @@
   "name": "react-typescript-app-razroo",
   "version": "0.1.0",
   "private": true,
-  "workspaces": [ "*" ],
+  "workspaces": [
+    "*"
+  ],
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -19,6 +21,7 @@
     "@types/node": "^10.3.4",
     "@types/react": "^16.4.1",
     "@types/react-dom": "^16.0.6",
+    "lerna": "^3.2.1",
     "typescript": "^2.9.2"
   }
 }
