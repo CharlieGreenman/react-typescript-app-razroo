@@ -1,8 +1,7 @@
-import { PureComponent } from 'react';
+import * as React from 'react';
 
-export class extends PureComponent {
-
-  render() {
+export class ChooseSize extends React.Component {
+  public render() {
     return (
       <div>Choose size works</div>
     );
