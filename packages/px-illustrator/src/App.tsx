@@ -1,6 +1,6 @@
 import * as React from 'react';
 import './App.css';
-import {ChooseSize} from './choose-size/choose-size';
+import {ChooseSize} from '@common/choose-size/choose-size';
 
 import logo from './logo.svg';
 
