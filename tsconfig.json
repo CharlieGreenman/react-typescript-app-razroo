@@ -19,6 +19,7 @@
     "noUnusedLocals": true,
     "paths": {
       "@common/*": ["packages/common/*"],
+      "@common/ui/choose-size": ["packages/common/ui/choose-size/index.ts]
     }
   },
   "exclude": [
