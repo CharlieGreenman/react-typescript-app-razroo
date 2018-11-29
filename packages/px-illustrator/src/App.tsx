@@ -1,6 +1,6 @@
+import {ChooseSize} from '@razroo/common/ui/choose-size';
 import * as React from 'react';
 import './App.css';
-import {ChooseSize} from '@common/ui/choose-size';
 
 import logo from './logo.svg';
 
