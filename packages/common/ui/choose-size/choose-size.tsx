@@ -1,12 +1,9 @@
 import * as React from 'react';
 
-export class ChooseSize extends React.Component {
-  public render() {
+export const ChooseSize: React.SFC = () => {
     return (
-      <div>Choose size works</div>
+      <div>
+          Choose size works
+      </div>
     );
-  }
-
-}
-
-export default ;
+};

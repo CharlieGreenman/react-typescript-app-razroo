@@ -1,4 +1,4 @@
-import {ChooseSize} from '@razroo/common/ui/choose-size';
+import {ChooseSize} from '@razroo/common/ui/choose-size/choose-size';
 import * as React from 'react';
 import './App.css';
 
